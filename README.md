@@ -13,6 +13,8 @@ URL: https://github.com/iDoka/awesome-linbus
 
 ## Contents
 
+This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protocol ToC:
+
 under development
 
 ## Parsers
@@ -23,11 +25,18 @@ under development
 ## HW
 
 * [LinUSBConverter](https://github.com/uCAN-LIN/LinUSBConverter) - LIN to USB converter with LIN master support compatible with SLCAN
-
+* [linbus](https://github.com/zapta/linbus) - Arduino based LINBUS stack and signal interceptor/injector
 
 ## unsorted
 
 * [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus)
+* [sllin linux](https://github.com/trainman419/linux-lin)
+
+* [LIN Nodes](https://github.com/John-Titor/LIN_Nodes) Firmware and PCB designs for various LIN network nodes intended for retrofitting older vehicles
+* [LIN](https://github.com/gandrewstone/LIN) The LIN protocol implemented over Arduino APIs (Serial and Digital IO)
+
+* [macchina LIN](https://github.com/macchina/LIN) Arduino library to add dual LIN support on SAM3X based boards
+* [LIN compiler](https://github.com/PersonalTransport/LIN) LIN is a compiler (written in java) that will parse LIN Node capability and LIN description files and generate C source code that implements the LIN 2.2 spec for slave or master nodes.
 
 <!--
 https://github.com/marmotton/esp32-connected-car-lora
