@@ -27,10 +27,17 @@ under development
 * [LinUSBConverter](https://github.com/uCAN-LIN/LinUSBConverter) - LIN to USB converter with LIN master support compatible with SLCAN
 * [linbus](https://github.com/zapta/linbus) - Arduino based LINBUS stack and signal interceptor/injector
 
+## SLLIN protocol (like slcan)
+
+* [sllin](https://github.com/sstiller/sllin) - Linux driver for LIN interfaces (serial line qdisc)
+* [sllin linux](https://github.com/trainman419/linux-lin)
+* [start_lin_demo.sh](https://gerrit.automotivelinux.org/gerrit/c/AGL/meta-agl-demo/+/22877/1/recipes-kernel/sllin/files/start_lin_demo.sh)
+
 ## unsorted
 
+* [Uart to LinBus on Android](http://fatalfeel.blogspot.com/2013/09/uart-to-linbus.html)
+
 * [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus)
-* [sllin linux](https://github.com/trainman419/linux-lin)
 
 * [LIN Nodes](https://github.com/John-Titor/LIN_Nodes) Firmware and PCB designs for various LIN network nodes intended for retrofitting older vehicles
 * [LIN](https://github.com/gandrewstone/LIN) The LIN protocol implemented over Arduino APIs (Serial and Digital IO)
