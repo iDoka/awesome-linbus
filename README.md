@@ -20,12 +20,14 @@ under development
 ## Parsers
 
 * [LDF Parser](https://github.com/c4deszes/ldfparser) - tool is able parse LIN Description Files, retrieve signal names and frames from them, as well as encoding messages using frame definitions and decoding them
-
+* [LDF-Parser](https://github.com/TrippW/LDF-Parser) - parser for retrieving data from automotive Lin description files (LDF)
+* [NCF-Parser](https://github.com/TrippW/NCF-Parser) - parser for retrieving data from automotive Node Configuration Files (NCF)
 
 ## HW
 
 * [LinUSBConverter](https://github.com/uCAN-LIN/LinUSBConverter) - LIN to USB converter with LIN master support compatible with SLCAN
 * [linbus](https://github.com/zapta/linbus) - Arduino based LINBUS stack and signal interceptor/injector
+* [linbus-phat](https://github.com/cepr/linbus-phat) - LIN Bus interface for Raspberry PI Zero
 
 ## SLLIN protocol (like slcan)
 
@@ -44,6 +46,14 @@ under development
 
 * [macchina LIN](https://github.com/macchina/LIN) Arduino library to add dual LIN support on SAM3X based boards
 * [LIN compiler](https://github.com/PersonalTransport/LIN) LIN is a compiler (written in java) that will parse LIN Node capability and LIN description files and generate C source code that implements the LIN 2.2 spec for slave or master nodes.
+
+
+* [ESP32-LIN-Interface-Library](https://github.com/mestrode/Lin-Interface-Library) - LIN-Master functions (write and request LIN-Frames via hardware UART of an ESP32
+* [open-LIN](https://github.com/open-LIN/open-LIN-c) - Implementation of Local interconnect network in C
+
+* []() -
+* []() -
+* []() -
 
 <!--
 https://github.com/marmotton/esp32-connected-car-lora
