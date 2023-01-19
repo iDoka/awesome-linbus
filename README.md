@@ -15,7 +15,15 @@ URL: https://github.com/iDoka/awesome-linbus
 
 This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protocol ToC:
 
-under development
+* [SW Tools](#sw-tools)
+* [Parsers]()
+* [Hardware]()
+* [SLLIN protocol]()
+
+
+## SW Tools
+
+* [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) - Powerful open environment for automotive CAN and LIN bus monitoring, simulation, testing, diagnostics, calibration and so on _(Closed source)_.
 
 ## Parsers
 
@@ -23,13 +31,15 @@ under development
 * [LDF-Parser](https://github.com/TrippW/LDF-Parser) - parser for retrieving data from automotive Lin description files (LDF)
 * [NCF-Parser](https://github.com/TrippW/NCF-Parser) - parser for retrieving data from automotive Node Configuration Files (NCF)
 
-## HW
+## Hardware
 
 * [LinUSBConverter](https://github.com/uCAN-LIN/LinUSBConverter) - LIN to USB converter with LIN master support compatible with SLCAN
 * [linbus](https://github.com/zapta/linbus) - Arduino based LINBUS stack and signal interceptor/injector
 * [linbus-phat](https://github.com/cepr/linbus-phat) - LIN Bus interface for Raspberry PI Zero
 
 ## SLLIN protocol (like slcan)
+
+SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [sllin](https://github.com/sstiller/sllin) - Linux driver for LIN interfaces (serial line qdisc)
 * [sllin linux](https://github.com/trainman419/linux-lin)
@@ -64,14 +74,21 @@ https://github.com/festlv/carpc/blob/master/linux_software/driver/driver.py
 -->
 
 
+---
+
+## Contributing
+
+* Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
 
+## Footnotes
 
-## etc
+1. Please follow [this](https://github.com/iDoka/awesome-linbus) root-repo for lastest updates.
+2. Also might be useful [this curated list](https://github.com/iDoka/awesome-canbus) of awesome tools and resources for CAN bus reverse engineering with lightly specializing in automotive embedded controller software and communication understanding.
+3. The another awesome list [CAN ID collections](https://github.com/iDoka/awesome-automotive-can-id) also might be useful.
 
-Follow this root-repo for lastest updates: https://github.com/iDoka/awesome-linbus
 
-
+<!--
 ## Tags
 
 #awesome
@@ -105,11 +122,4 @@ Follow this root-repo for lastest updates: https://github.com/iDoka/awesome-linb
 #vehicular-networks
 #python
 #automotive-security
-
-
-
-
-
-
-
-
+-->
