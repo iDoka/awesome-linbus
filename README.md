@@ -15,15 +15,25 @@ URL: https://github.com/iDoka/awesome-linbus
 
 This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protocol ToC:
 
+* [Intro](#intro)
 * [SW Tools](#sw-tools)
-* [Parsers]()
-* [Hardware]()
-* [SLLIN protocol]()
+  * [Linux related](#linux-related)
+* [Parsers](#parsers)
+* [Hardware](#hardware)
+* [SLLIN protocol](#sllin-protocol)
 
+
+## Intro
+
+* [LIN Bus Explained](https://www.csselectronics.com/pages/lin-bus-protocol-intro-basics) - A Simple Intro.
 
 ## SW Tools
 
 * [TSMaster](https://github.com/TOSUN-Shanghai/TSMaster) - Powerful open environment for automotive CAN and LIN bus monitoring, simulation, testing, diagnostics, calibration and so on _(Closed source)_.
+
+### Linux related
+
+* [linux-lin](https://github.com/lin-bus/linux-lin) - Linux kernel LIN bus support implemented as TTY line discipline for generic UART conrollers: [Documentation](https://github.com/lin-bus/linux-lin/wiki); [Paper](https://github.com/lin-bus/linux-lin/wiki/sllin-rtlws14-paper.pdf).
 
 ## Parsers
 
@@ -36,6 +46,7 @@ This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protoco
 * [LinUSBConverter](https://github.com/uCAN-LIN/LinUSBConverter) - LIN to USB converter with LIN master support compatible with SLCAN
 * [linbus](https://github.com/zapta/linbus) - Arduino based LINBUS stack and signal interceptor/injector
 * [linbus-phat](https://github.com/cepr/linbus-phat) - LIN Bus interface for Raspberry PI Zero
+* [budgetcan](https://github.com/ryedwards/budgetcan_fw#how-to-use-the-lin-driver) - Firmware to support gs_usb on most STM32 devices with LIN bus support.
 
 ## SLLIN protocol (like slcan)
 
