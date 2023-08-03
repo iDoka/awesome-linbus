@@ -71,6 +71,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 
 * [ESP32-LIN-Interface-Library](https://github.com/mestrode/Lin-Interface-Library) - LIN-Master functions (write and request LIN-Frames via hardware UART of an ESP32
 * [open-LIN](https://github.com/open-LIN/open-LIN-c) - Implementation of Local interconnect network in C
+* [ESP32-openLIN](https://github.com/CW-B-W/ESP32-openLIN) - The [open-LIN](https://github.com/open-LIN/open-LIN-c) implementation on ESP32 based on [ESP32-SoftwareLIN](https://github.com/CW-B-W/ESP32-SoftwareLIN)
 
 * []() -
 * []() -
