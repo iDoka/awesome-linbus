@@ -61,6 +61,7 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 * [Uart to LinBus on Android](http://fatalfeel.blogspot.com/2013/09/uart-to-linbus.html)
 
 * [Volvo LIN bus reader](https://github.com/laurynas/volvo_linbus)
+* [BMW Pierburg CWA400 waterpump LIN controller example](https://github.com/brainiac27/cwa400_lin)
 
 * [LIN Nodes](https://github.com/John-Titor/LIN_Nodes) Firmware and PCB designs for various LIN network nodes intended for retrofitting older vehicles
 * [LIN](https://github.com/gandrewstone/LIN) The LIN protocol implemented over Arduino APIs (Serial and Digital IO)
