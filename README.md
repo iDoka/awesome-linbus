@@ -27,7 +27,7 @@ This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protoco
   * [Linux related](#linux-related)
 * [Parsers](#parsers)
 * [Hardware](#hardware)
-* [SLLIN protocol](#sllin-protocol-like-slcan)
+* [SLLIN protocol (like slcan)](#sllin-protocol-like-slcan)
 
 
 ## Intro
