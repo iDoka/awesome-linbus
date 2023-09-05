@@ -27,7 +27,7 @@ This is a [LIN](http://en.wikipedia.org/wiki/Local_Interconnect_Network) protoco
   * [Linux related](#linux-related)
 * [Parsers](#parsers)
 * [Hardware](#hardware)
-* [SLLIN protocol](#sllin-protocol)
+* [SLLIN protocol](#sllin-protocol-like-slcan)
 
 
 ## Intro
@@ -73,13 +73,13 @@ SLLIN protocol - that is like slcan protocol for linux based OS.
 * [LIN Nodes](https://github.com/John-Titor/LIN_Nodes) - Firmware and PCB designs for various LIN network nodes intended for retrofitting older vehicles.
 * [LIN](https://github.com/gandrewstone/LIN) - The LIN protocol implemented over Arduino APIs (Serial and Digital IO).
 
-* [macchina LIN](https://github.com/macchina/LIN) - Arduino library to add dual LIN support on SAM3X based boards/
+* [macchina LIN](https://github.com/macchina/LIN) - Arduino library to add dual LIN support on SAM3X based boards.
 * [LIN compiler](https://github.com/PersonalTransport/LIN) - LIN is a compiler (written in java) that will parse LIN Node capability and LIN description files and generate C source code that implements the LIN 2.2 spec for slave or master nodes.
 
 
-* [ESP32-LIN-Interface-Library](https://github.com/mestrode/Lin-Interface-Library) - LIN-Master functions (write and request LIN-Frames via hardware UART of an ESP32/
-* [open-LIN](https://github.com/open-LIN/open-LIN-c) - Implementation of Local interconnect network in C/
-* [ESP32-openLIN](https://github.com/CW-B-W/ESP32-openLIN) - The [open-LIN](https://github.com/open-LIN/open-LIN-c) implementation on ESP32 based on [ESP32-SoftwareLIN](https://github.com/CW-B-W/ESP32-SoftwareLIN).
+* [ESP32-LIN-Interface-Library](https://github.com/mestrode/Lin-Interface-Library) - LIN-Master functions (write and request LIN-Frames via hardware UART of an ESP32.
+* [open-LIN](https://github.com/open-LIN/open-LIN-c) - Implementation of Local interconnect network in C.
+* [ESP32-openLIN](https://github.com/CW-B-W/ESP32-openLIN) - The **open-LIN** implementation on ESP32 based on [ESP32-SoftwareLIN](https://github.com/CW-B-W/ESP32-SoftwareLIN).
 
 
 <!--
