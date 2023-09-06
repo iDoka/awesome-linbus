@@ -4,7 +4,7 @@
 [![GitHub watchers](https://badgen.net/github/watchers/iDoka/awesome-linbus/)](https://GitHub.com/iDoka/awesome-linbus/watchers/)
 
 
-<p align="center"><img src="https://github.com/iDoka/awesome-linbus/raw/master/lin_logo.png" alt="LIN logo" width="300" heigth="150"/></p>
+<p align="center"><img src="https://github.com/iDoka/awesome-linbus/raw/main/lin_logo.png" alt="LIN logo" width="300" heigth="150"/></p>
 
 
 > :tractor: Awesome Tools, Hardware And Resources For LIN Bus
